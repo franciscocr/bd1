@@ -7,6 +7,7 @@ public class PruebaGIt
     {
         
             System.out.println("hola");
+            System.out.println("hola2");
 
 
     }
