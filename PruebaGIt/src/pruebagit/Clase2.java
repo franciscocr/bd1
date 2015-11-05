@@ -12,5 +12,6 @@ package pruebagit;
 public class Clase2 {
     
     int i =0;
+    double p ;
     
 }
